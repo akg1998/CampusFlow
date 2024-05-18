@@ -1,6 +1,8 @@
 # CampusFlow
 
 CampusFlow is a student and administration management web-based system built for "Across" universities. It consists of an admin panel and a student dashboard.
+This project is done by the group of students as a Simulation Game project at Technical University of Chemnitz. 
+We are **Web Wizards** who developed this product, for more information, please do check our website:- https://web-wizards-team.vercel.app/ 
 
 ## Technology Stack
 - React JS - Frontend
